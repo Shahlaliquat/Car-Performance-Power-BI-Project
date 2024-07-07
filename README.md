@@ -43,7 +43,4 @@ This project analyzes car performance metrics to provide comprehensive compariso
 - *Power BI*: Data visualization and dashboard creation.
 
 
-## How to Use This Repository
-1. *Data*:  Cleaned data files are in the data folder
-2. *Dashboard*: The Power BI file is in the dashboard folder.
-3. *Documentation*: Detailed project report  are in the docs folder.
+
